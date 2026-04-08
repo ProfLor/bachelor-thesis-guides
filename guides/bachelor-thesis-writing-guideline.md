@@ -8,6 +8,8 @@ This document summarizes writing and formatting rules for bachelor theses. It co
 
 Use this document to make consistent decisions on tool choice, notation, figures, equations, citations, and final quality control.
 
+Use it while drafting, revising, and checking the final PDF before submission.
+
 ## Academic integrity
 
 - Your thesis must clearly distinguish your own work from material taken from other sources.

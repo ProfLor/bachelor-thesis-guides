@@ -2,7 +2,8 @@
 
 ## Requirements before starting the thesis
 
- Transcript of your credit points to confirm that the following requirements according to §8 IMC [SPO 2023](https://imc.thws.de/fileadmin/IMC/documents/2023-07-26_SPO_BIMC_Text_N-EN_2024.pdf) and the module handbook are satisfied
+Provide your transcript of credit points to confirm that the requirements according to Section 8 IMC [SPO 2023](https://imc.thws.de/fileadmin/IMC/documents/2023-07-26_SPO_BIMC_Text_N-EN_2024.pdf) and the module handbook are satisfied.
+
 ### Organizational matters for IMC students
 
 THWS intranet resources listed below may require login.
@@ -16,28 +17,32 @@ THWS intranet resources listed below may require login.
 
 Prepare a short outline of the thesis with a maximum length of 3 pages and submit it to the supervisor for approval.
 
-1. Title block on the first page
-   - Working title
-   - Name, matriculation number, degree program
-   - Intended supervisor, company, planned start and end date
-2. Motivation and problem, about a quarter page
-   - Practical context and relevance of the topic
-   - Short and precise problem statement
-3. Objectives and research questions, about a quarter page
-   - Overall goal in 1 to 2 sentences
-   - 2 to 4 concrete research questions or technical objectives
-   - One sentence on the expected contribution, for example model, prototype, evaluation, or guideline
-4. Background and state of the art, about half a page
-   - 1 to 2 paragraphs on relevant theoretical or technical basics and current solutions
-   - 1 paragraph on the central gap the work will address
-   - 3 to 5 core references
-5. Planned methodology and structure, about half a page
-   - Planned approach, for example analytical, simulation-based, or experimental
-   - Planned tools and systems
-   - 4 to 5 bullet points for the planned chapter structure
+1. **Title block on the first page**
+    - Working title
+    - Name, matriculation number, degree program
+    - Intended supervisor, company, planned start and end date
 
-6. Rough time plan, about a quarter page
-   - 4 to 6 bullets for the main phases of the work
+2. **Motivation and problem**, about a quarter page
+    - Practical context and relevance of the topic
+    - Short and precise problem statement
+
+3. **Objectives and research questions**, about a quarter page
+    - Overall goal in 1 to 2 sentences
+    - 2 to 4 concrete research questions or technical objectives
+    - One sentence on the expected contribution, for example model, prototype, evaluation, or guideline
+
+4. **Background and state of the art**, about half a page
+    - 1 to 2 paragraphs on relevant theoretical or technical basics and current solutions
+    - 1 paragraph on the central gap the work will address
+    - 3 to 5 core references
+
+5. **Planned methodology and structure**, about half a page
+    - Planned approach, for example analytical, simulation-based, or experimental
+    - Planned tools and systems
+    - 4 to 5 bullet points for the planned chapter structure
+
+6. **Rough time plan**, about a quarter page
+    - 4 to 6 bullets for the main phases of the work
 
 ## Thesis structure
 
@@ -66,59 +71,30 @@ Recommended total target length for the main text, excluding front and back matt
 
 ### Main text
 
-1. Introduction (2–3 pages)
-   1.1 Motivation and Problem Statement
-       - Practical context, why the topic matters (technical/economic).
-       - Clear problem statement in a few precise sentences.
-   1.2 Objectives and Research Questions
-       - Overall goal in 1–2 sentences.
-       - 2–4 concrete research questions or technical objectives.
-   1.3 Structure of the Thesis
-       - Short paragraph explaining what each chapter does.
+1. **Introduction** (2 to 3 pages)
+   - **Motivation and problem statement**: practical context and a clear statement of the problem.
+   - **Objectives and research questions**: overall goal in 1 to 2 sentences and 2 to 4 concrete research questions or technical objectives.
+   - **Structure of the thesis**: a short paragraph explaining what each chapter does.
 
-2. Background and State of the Art (7–9 pages)
-   2.1 Theoretical and Technical Fundamentals
-       - Only theory needed later (EE, math, physics).
-       - Key models, definitions, and formulas used in methods/results.
-   2.2 State of the Art and Existing Solutions
-       - Important publications, standards, existing systems.
-       - Strengths, weaknesses, and typical performance/limits.
-   2.3 Identified Research Gap
-       - What is missing or insufficient in current solutions.
-       - Direct link from the gap to your objectives.
+2. **Background and state of the art** (7 to 9 pages)
+   - **Theoretical and technical fundamentals**: only the theory needed later, including key models, definitions, and formulas.
+   - **State of the art and existing solutions**: important publications, standards, existing systems, and their strengths and weaknesses.
+   - **Identified research gap**: what is missing or insufficient and how that gap leads to your objectives.
 
-3. Methodology and Concept (6–8 pages)
-   3.1 Overall Approach and Concept Development
-       - High-level strategy (analytical, simulation-based, experimental).
-       - Conceptual architecture/block diagrams; key design decisions.
-   3.2 Methods and Tools
-       - Measurement, simulation, and design methods.
-       - Important software/hardware tools and main assumptions.
-   3.3 Experimental / Simulation Setup and Planning
-       - Description of setup/model with vector graphics.
-       - Test plan: which scenarios/cases and why.
+3. **Methodology and concept** (6 to 8 pages)
+   - **Overall approach and concept development**: high-level strategy and key design decisions.
+   - **Methods and tools**: measurement, simulation, design methods, and important tools.
+   - **Experimental or simulation setup and planning**: setup description and test plan.
 
-4. Implementation and Results (10–12 pages)
-   4.1 Implementation / Experimental Procedure
-       - Practical realization (build, code, parameters).
-       - How experiments/simulations were actually carried out.
-   4.2 Data Collection and Analysis
-       - What was measured/logged and how it was processed.
-       - Metrics and evaluation methods.
-   4.3 Results and Performance Evaluation
-       - Key figures/tables with main results.
-       - Comparison against targets, requirements, or literature.
+4. **Implementation and results** (10 to 12 pages)
+   - **Implementation or experimental procedure**: practical realization and actual execution.
+   - **Data collection and analysis**: what was measured or logged and how it was processed.
+   - **Results and performance evaluation**: key figures and tables, and comparison against targets, requirements, or literature.
 
-5. Discussion and Conclusion (3–4 pages)
-   5.1 Interpretation of Results
-       - Answers to the research questions.
-       - Relation to theory and state of the art.
-   5.2 Limitations and Critical Reflection
-       - Main limitations (models, hardware, data, time).
-       - Impact on reliability and generality of conclusions.
-   5.3 Summary and Outlook
-       - Compact recap of problem, approach, and main findings.
-       - Concrete ideas for future work and possible applications.
+5. **Discussion and conclusion** (3 to 4 pages)
+   - **Interpretation of results**: answers to the research questions and relation to theory and prior work.
+   - **Limitations and critical reflection**: main limitations and their impact on the reliability of the conclusions.
+   - **Summary and outlook**: compact recap and concrete ideas for future work.
 
 ### Back matter
 
@@ -135,16 +111,18 @@ Recommended total target length for the main text, excluding front and back matt
 
 ## Grading
 
-1. Work Result (20 %)
-    a) Goal fulfilment according to the exposé
-    b) Knowledge gain, relevance, timeliness
-    c) Own ideas and innovation
-2. Approach and Methodology (50 %)
-    a) Principles of scientific work
-    b) Diligence and reliability
-    c) Effort and workload
-    d) Independence (yield/effort)
-3. Written thesis (30 %)
-    a) Form of the elaboration (structure, citations, formulas, typography etc.)
-    b) Conciseness (comprehensibility, expression)
-    c) Accuracy (spelling, punctuation, grammar)
+1. **Work result** (20%)
+    - Goal fulfilment according to the exposé
+    - Knowledge gain, relevance, timeliness
+    - Own ideas and innovation
+
+2. **Approach and methodology** (50%)
+    - Principles of scientific work
+    - Diligence and reliability
+    - Effort and workload
+    - Independence (yield/effort)
+
+3. **Written thesis** (30%)
+    - Form of the elaboration, including structure, citations, formulas, and typography
+    - Conciseness, comprehensibility, and expression
+    - Accuracy in spelling, punctuation, and grammar
