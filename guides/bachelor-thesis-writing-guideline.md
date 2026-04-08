@@ -83,7 +83,7 @@ The following tools for the preparation of the document are recommended:
 - Define every symbol at first use.
 - Keep notation consistent across the whole thesis. Do not rename the same quantity between chapters.
 - Use upright letters for units such as m, V, A, and °C.
-- Use italic letters for physical variables and quantity symbols.
+- Use italic letters for physical variables and quantity symbols, such as *U, I, P*
 - Leave a space between numeric value and unit, for example 1.2 V, 70 %, or 100 °C.
 - In tables, state units in the header row or header column, for example "Voltage / V".
 - Do not place units in square brackets or round brackets directly after the quantity name in running text.
