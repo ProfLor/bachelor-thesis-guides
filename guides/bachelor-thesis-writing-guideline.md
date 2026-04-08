@@ -65,7 +65,7 @@ The following tools for the preparation of the document are recommended:
 - Each paragraph should serve one clear purpose.
 
 ## Figures and tables
-
+- Every figure and table must be referenced in the text and discussed in terms of its relevance to the thesis argument. Do not insert figures or tables without explaining their relevance.
 - Every figure must have a caption below the figure.
 - Every table must have a caption above the table.
 - Captions should be short, specific, and informative.
