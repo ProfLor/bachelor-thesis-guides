@@ -93,15 +93,24 @@ The following tools for the preparation of the document are recommended:
 
 - Use a consistent citation style throughout the thesis.
 - IEEE style is recommended for engineering theses.
+
+> Example of IEEE-style in-text citation and bibliography entry:
+> [1] A. Author and B. Author, "Title of the Article," *Journal Title*, vol. 12, no. 3, pp. 45-52, 2024.
+> [2] A. Author and B. Author, “Title of the Page,” Website Title. URL (accessed Mon. DD, YYYY)
+
 - Cite sources for statements of fact, adopted methods, reproduced data, external images, standards, and prior work.
 - Every in-text citation must correspond to an entry in the bibliography.
 - Every bibliography entry should be complete enough that the source can be identified and retrieved.
 
-IEEE quick example:
+When a source directly supports a specific part of a statement, the reference is placed immediately after that part. If a source supports an entire sentence or paragraph, the reference is placed after the final period at the very end.
+> The idea that Earth is a sphere moving around the Sun[1] is one of the earliest fundamental insights of natural science, and it was first formulated in a comprehensive mathematical model by Nikolaus Kopernikus  in the 16th century.[2]
+>
+> [1] Wikipedia contributors. (n.d.). "Earth’s orbit", *Wikipedia, The Free Encyclopedia*. https://en.wikipedia.org/wiki/Earth%27s_orbit (accessed Apr. 10, 2026)
+> [2] N. Kopernikus, "De revolutionibus orbium coelestium", *Johannes Petreius*, Nürnberg, 1543.
 
-[1] A. Author and B. Author, "Title of the Article," *Journal Title*, vol. 12, no. 3, pp. 45-52, 2024.
+Generative AI or GPTs (e.g. OpenAI ChatGPT, Google Bard) may be used as reference. The following information must be used in the citation: tool name, version, input, and output dialogue.
+Example: OpenAI ChatGPT-4, input: “explain the properties of an operational amplifier.” output: “Certainly, an operational amplifier […]”
 
-In-text citation example: "The measured values are in line with the expected behavior [1]."
 
 ### AI-assisted work
 
