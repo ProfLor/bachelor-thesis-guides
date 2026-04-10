@@ -33,8 +33,7 @@ The following tools for the preparation of the document are recommended:
 - Markdown is a lightweight markup language and a good entry point for technical writing.
 - For a bachelor thesis, use MYST Markdown rather than plain Markdown whenever equations, citations, cross-references, numbered figures, or structured tables are required.
 - A practical starting point is VS Code with Markdown support. Dillinger and StackEdit are useful for first steps, but a thesis workflow should support reproducible export and structured references.
-- Good starting points for basic Markdown are [here](https://www.markdowntutorial.com/lesson/1/), [here](https://www.markdownguide.org/) or [there](https://medium.com/@itsjzt/beginner-guide-to-markdown-229adce30074).
-- MYST Markdown extends Markdown with directives, roles, and other structured authoring features needed for technical documents.
+- Good starting points for basic Markdown are available [here](https://www.markdowntutorial.com/lesson/1/), [here](https://www.markdownguide.org/) or [there](https://medium.com/@itsjzt/beginner-guide-to-markdown-229adce30074).
 - For MYST-specific syntax and project structure, use the [official documentation](https://myst-parser.readthedocs.io/en/latest/).
 
 ### LaTeX
@@ -133,6 +132,3 @@ Before submission, verify at least the following:
 - Every central symbol and abbreviation is defined at first use.
 - Citations and bibliography are complete and consistent.
 - The language has been checked for spelling and grammar.
-- If Markdown is used, the source is maintained in MYST Markdown rather than plain Markdown.
-- The PDF formatting is stable and readable on another device.
-- The page count of the main text, excluding front and back matter, is between 35 and 40 pages as recommended in the thesis guide.
